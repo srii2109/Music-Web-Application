@@ -89,11 +89,6 @@ Sound On Spot 👌
 
 ![Screenshot 2024-05-03 204223](https://github.com/user-attachments/assets/c80c8532-221d-4110-b30a-e73ca9a3d5ae)
 
-# Admin Side
-
-![Screenshot Example](https://drive.google.com/uc?id=1zRSb2_nTgh1lhKXQ4RzpRBCNqQZTzq5g)
-
-![Screenshot 1](https://drive.google.com/uc?id=123k7-rl8ti5wVk8Ucv72lhq0-5Q_0HJ3)
 
 
 # Managing Plans

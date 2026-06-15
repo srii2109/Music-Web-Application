@@ -42,18 +42,7 @@ Sound On Spot 👌
 - **Pagination**
 - **Light Mode and Dark Mode** 
 
-## Authors
-
-- [@Nouran Hassan](https://github.com/Nouran246)
-- [@Malak Mohamed](https://github.com/MalakMohameed)
-- [@Yahia-Elshobokshy](https://github.com/Yahia-Elshobokshy)
-- [@Laila Amgad](https://github.com/Laila4563)
-- [@Roaa Khaled](https://github.com/Rowlkh)
-
 # Landing Page
-
-
-https://github.com/user-attachments/assets/f7c9ff99-afc7-431e-9014-ae05d5f7614c
 
 
 ![Screenshot Example](https://drive.google.com/uc?id=1AtXumDj9XsnQfXk3qoYwEsMI-ZdwRdTA)

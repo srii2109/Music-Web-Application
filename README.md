@@ -95,15 +95,6 @@ Sound On Spot 👌
 
 ![Screenshot 1](https://drive.google.com/uc?id=123k7-rl8ti5wVk8Ucv72lhq0-5Q_0HJ3)
 
-# Managing Playlists
-
-![Screenshot 2](https://drive.google.com/uc?id=1Q7Ob0RrSDMJjthMkqi57WpJR5TxXB3K8)
-
-![Screenshot 3](https://drive.google.com/uc?id=14faFK7QS-JBpsYnFZsSPQE1uc2xR1oK1)
-
-![Screenshot 4](https://drive.google.com/uc?id=1p9lt_lN1rsofi3-ZUrsvDsSKRIH7qw9Y)
-
-![Screenshot 5](https://drive.google.com/uc?id=1Ax1kvjWsQeJo9Ke-GmerUnNQk8zs0U7T)
 
 # Managing Plans
 
